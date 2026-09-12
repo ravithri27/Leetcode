@@ -191,6 +191,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravithri27/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ravithri27/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ravithri27/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/ravithri27/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -228,6 +229,7 @@
 | [1695-maximum-erasure-value](https://github.com/ravithri27/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ravithri27/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ravithri27/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/ravithri27/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## String
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ravithri27/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/ravithri27/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ravithri27/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/ravithri27/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -306,6 +309,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ravithri27/Leetcode/tree/master/0014-longest-common-prefix) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/ravithri27/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -494,6 +498,7 @@
 | [0389-find-the-difference](https://github.com/ravithri27/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/ravithri27/Leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/ravithri27/Leetcode/tree/master/0832-flipping-an-image) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/ravithri27/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

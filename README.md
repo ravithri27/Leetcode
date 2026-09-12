@@ -51,6 +51,7 @@
 | [0049-group-anagrams](https://github.com/ravithri27/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ravithri27/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ravithri27/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ravithri27/Leetcode/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ravithri27/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ravithri27/Leetcode/tree/master/0054-spiral-matrix) |
 ## Algorithm X
 |  |
 | ------- |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ravithri27/Leetcode/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ravithri27/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

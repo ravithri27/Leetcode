@@ -190,6 +190,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/ravithri27/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravithri27/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ravithri27/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ravithri27/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -544,6 +545,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ravithri27/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ravithri27/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2574-left-and-right-sum-differences](https://github.com/ravithri27/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ravithri27/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 ## Interactive
 |  |
 | ------- |

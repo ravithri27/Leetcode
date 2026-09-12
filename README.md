@@ -34,6 +34,7 @@
 | [0066-plus-one](https://github.com/ravithri27/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ravithri27/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/ravithri27/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/ravithri27/Leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravithri27/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravithri27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ravithri27/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ravithri27/Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [0148-sort-list](https://github.com/ravithri27/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ravithri27/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravithri27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ravithri27/Leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |

@@ -15,6 +15,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ravithri27/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/ravithri27/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ravithri27/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/ravithri27/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0041-first-missing-positive](https://github.com/ravithri27/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ravithri27/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ravithri27/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/ravithri27/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## String
 |  |
 | ------- |

@@ -179,6 +179,7 @@
 | [1920-build-array-from-permutation](https://github.com/ravithri27/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ravithri27/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravithri27/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ravithri27/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
 | ------- |
@@ -256,6 +257,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ravithri27/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/ravithri27/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/ravithri27/Leetcode/tree/master/1695-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ravithri27/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
 |  |
 | ------- |
@@ -382,6 +384,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ravithri27/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravithri27/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ravithri27/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ravithri27/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

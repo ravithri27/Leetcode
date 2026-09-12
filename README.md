@@ -40,6 +40,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ravithri27/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ravithri27/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ravithri27/Leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/ravithri27/Leetcode/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,4 +106,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ravithri27/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/ravithri27/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

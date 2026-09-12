@@ -30,6 +30,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/ravithri27/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ravithri27/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0326-power-of-three](https://github.com/ravithri27/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ravithri27/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ravithri27/Leetcode/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -506,6 +508,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravithri27/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ravithri27/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -567,6 +570,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravithri27/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravithri27/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ravithri27/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Pigeonhole Principle
 |  |
 | ------- |

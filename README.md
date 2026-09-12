@@ -189,6 +189,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ravithri27/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2574-left-and-right-sum-differences](https://github.com/ravithri27/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravithri27/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/ravithri27/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +226,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravithri27/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1695-maximum-erasure-value](https://github.com/ravithri27/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ravithri27/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/ravithri27/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 | [1695-maximum-erasure-value](https://github.com/ravithri27/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ravithri27/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/ravithri27/Leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/ravithri27/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
 | ------- |

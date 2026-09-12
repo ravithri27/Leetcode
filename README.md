@@ -180,6 +180,7 @@
 | [1929-concatenation-of-array](https://github.com/ravithri27/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravithri27/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ravithri27/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2090-k-radius-subarray-averages](https://github.com/ravithri27/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 ## Hash Table
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 | [1652-defuse-the-bomb](https://github.com/ravithri27/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/ravithri27/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ravithri27/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2090-k-radius-subarray-averages](https://github.com/ravithri27/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 ## Binary Search
 |  |
 | ------- |

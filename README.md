@@ -61,6 +61,7 @@
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ravithri27/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/ravithri27/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/ravithri27/Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/ravithri27/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Recursion
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ravithri27/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ravithri27/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4001-aggregate-two-time-series](https://github.com/ravithri27/Leetcode/tree/master/4001-aggregate-two-time-series) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/ravithri27/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -649,6 +651,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravithri27/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/ravithri27/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -661,4 +664,5 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravithri27/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/ravithri27/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 <!---LeetCode Topics End-->

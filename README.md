@@ -113,6 +113,7 @@
 | [0169-majority-element](https://github.com/ravithri27/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ravithri27/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ravithri27/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/ravithri27/Leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0049-group-anagrams](https://github.com/ravithri27/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ravithri27/Leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/ravithri27/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/ravithri27/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | [0148-sort-list](https://github.com/ravithri27/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ravithri27/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ravithri27/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ravithri27/Leetcode/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

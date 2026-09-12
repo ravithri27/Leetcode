@@ -20,6 +20,7 @@
 | [0013-roman-to-integer](https://github.com/ravithri27/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ravithri27/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ravithri27/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ravithri27/Leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0054-spiral-matrix](https://github.com/ravithri27/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ravithri27/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ravithri27/Leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/ravithri27/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |

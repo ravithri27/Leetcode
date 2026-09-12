@@ -100,6 +100,7 @@
 | [0238-product-of-array-except-self](https://github.com/ravithri27/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ravithri27/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ravithri27/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/ravithri27/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -295,8 +296,13 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ravithri27/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ravithri27/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/ravithri27/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ravithri27/Leetcode/tree/master/0278-first-bad-version) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ravithri27/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

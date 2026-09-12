@@ -22,6 +22,7 @@
 | [0147-insertion-sort-list](https://github.com/ravithri27/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ravithri27/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ravithri27/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/ravithri27/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/ravithri27/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ravithri27/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/ravithri27/Leetcode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/ravithri27/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
 | ------- |

@@ -121,6 +121,7 @@
 | [0503-next-greater-element-ii](https://github.com/ravithri27/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ravithri27/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ravithri27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/ravithri27/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -290,6 +291,7 @@
 | [0048-rotate-image](https://github.com/ravithri27/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ravithri27/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ravithri27/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/ravithri27/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Algorithm X
 |  |
 | ------- |
@@ -308,6 +310,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ravithri27/Leetcode/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/ravithri27/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Quicksort
 |  |
 | ------- |

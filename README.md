@@ -89,6 +89,7 @@
 | [0169-majority-element](https://github.com/ravithri27/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ravithri27/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ravithri27/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/ravithri27/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/ravithri27/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ravithri27/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ravithri27/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ravithri27/Leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [0147-insertion-sort-list](https://github.com/ravithri27/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ravithri27/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ravithri27/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ravithri27/Leetcode/tree/master/0217-contains-duplicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

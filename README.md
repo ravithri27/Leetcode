@@ -204,6 +204,7 @@
 | [3638-maximum-balanced-shipments](https://github.com/ravithri27/Leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ravithri27/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ravithri27/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+| [4001-aggregate-two-time-series](https://github.com/ravithri27/Leetcode/tree/master/4001-aggregate-two-time-series) |
 ## Hash Table
 |  |
 | ------- |
@@ -380,6 +381,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/ravithri27/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ravithri27/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ravithri27/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [4001-aggregate-two-time-series](https://github.com/ravithri27/Leetcode/tree/master/4001-aggregate-two-time-series) |
 ## Greedy
 |  |
 | ------- |

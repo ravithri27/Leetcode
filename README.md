@@ -167,6 +167,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ravithri27/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/ravithri27/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ravithri27/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1652-defuse-the-bomb](https://github.com/ravithri27/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/ravithri27/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/ravithri27/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ravithri27/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -249,6 +250,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ravithri27/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ravithri27/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ravithri27/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1652-defuse-the-bomb](https://github.com/ravithri27/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/ravithri27/Leetcode/tree/master/1695-maximum-erasure-value) |
 ## Binary Search
 |  |

@@ -131,6 +131,7 @@
 | [0724-find-pivot-index](https://github.com/ravithri27/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ravithri27/Leetcode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ravithri27/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0821-shortest-distance-to-a-character](https://github.com/ravithri27/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ravithri27/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/ravithri27/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ravithri27/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/ravithri27/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Sliding Window
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravithri27/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/ravithri27/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ravithri27/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/ravithri27/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Greedy
 |  |
 | ------- |

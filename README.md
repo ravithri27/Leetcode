@@ -143,6 +143,7 @@
 | [0912-sort-an-array](https://github.com/ravithri27/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ravithri27/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/ravithri27/Leetcode/tree/master/0942-di-string-match) |
+| [0977-squares-of-a-sorted-array](https://github.com/ravithri27/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -275,6 +276,7 @@
 | [0905-sort-array-by-parity](https://github.com/ravithri27/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ravithri27/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/ravithri27/Leetcode/tree/master/0942-di-string-match) |
+| [0977-squares-of-a-sorted-array](https://github.com/ravithri27/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -313,6 +315,7 @@
 | [0905-sort-array-by-parity](https://github.com/ravithri27/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ravithri27/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ravithri27/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/ravithri27/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

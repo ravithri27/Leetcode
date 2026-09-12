@@ -27,6 +27,7 @@
 | [0328-odd-even-linked-list](https://github.com/ravithri27/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ravithri27/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ravithri27/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ravithri27/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/ravithri27/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ravithri27/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ravithri27/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ravithri27/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -417,6 +419,7 @@
 | [0503-next-greater-element-ii](https://github.com/ravithri27/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ravithri27/Leetcode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ravithri27/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ravithri27/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -468,6 +471,7 @@
 | [0503-next-greater-element-ii](https://github.com/ravithri27/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ravithri27/Leetcode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ravithri27/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ravithri27/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Pigeonhole Principle
 |  |
 | ------- |

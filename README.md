@@ -139,6 +139,7 @@
 | [0867-transpose-matrix](https://github.com/ravithri27/Leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/ravithri27/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/ravithri27/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/ravithri27/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +267,7 @@
 | [0832-flipping-an-image](https://github.com/ravithri27/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/ravithri27/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/ravithri27/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/ravithri27/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -300,6 +302,7 @@
 | [0645-set-mismatch](https://github.com/ravithri27/Leetcode/tree/master/0645-set-mismatch) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ravithri27/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/ravithri27/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/ravithri27/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

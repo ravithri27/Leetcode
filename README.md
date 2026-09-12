@@ -207,6 +207,7 @@
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ravithri27/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4001-aggregate-two-time-series](https://github.com/ravithri27/Leetcode/tree/master/4001-aggregate-two-time-series) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/ravithri27/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ravithri27/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ravithri27/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4024-nearest-available-drone](https://github.com/ravithri27/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Hash Table
@@ -329,6 +330,7 @@
 | [0169-majority-element](https://github.com/ravithri27/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ravithri27/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ravithri27/Leetcode/tree/master/0912-sort-an-array) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ravithri27/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Trie
 |  |
 | ------- |
@@ -455,6 +457,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/ravithri27/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ravithri27/Leetcode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/ravithri27/Leetcode/tree/master/0912-sort-an-array) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ravithri27/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -591,6 +594,7 @@
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ravithri27/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravithri27/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ravithri27/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ravithri27/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Interactive
 |  |
 | ------- |
@@ -671,4 +675,12 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravithri27/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/ravithri27/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4024-nearest-available-drone](https://github.com/ravithri27/Leetcode/tree/master/4024-nearest-available-drone) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ravithri27/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ravithri27/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->

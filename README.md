@@ -38,6 +38,7 @@
 | [0171-excel-sheet-column-number](https://github.com/ravithri27/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ravithri27/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ravithri27/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ravithri27/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ravithri27/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ravithri27/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ravithri27/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ravithri27/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0217-contains-duplicate](https://github.com/ravithri27/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ravithri27/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ravithri27/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ravithri27/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravithri27/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravithri27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ravithri27/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/ravithri27/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -199,6 +203,7 @@
 | [0169-majority-element](https://github.com/ravithri27/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ravithri27/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ravithri27/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ravithri27/Leetcode/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -263,6 +268,7 @@
 | [0090-subsets-ii](https://github.com/ravithri27/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ravithri27/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ravithri27/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ravithri27/Leetcode/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

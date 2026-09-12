@@ -21,6 +21,7 @@
 | [0143-reorder-list](https://github.com/ravithri27/Leetcode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/ravithri27/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ravithri27/Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ravithri27/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ravithri27/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ravithri27/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ravithri27/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ravithri27/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/ravithri27/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ravithri27/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ravithri27/Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ravithri27/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Greedy
 |  |
 | ------- |

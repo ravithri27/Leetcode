@@ -87,6 +87,7 @@
 | [0013-roman-to-integer](https://github.com/ravithri27/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ravithri27/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ravithri27/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/ravithri27/Leetcode/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ravithri27/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ravithri27/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ravithri27/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ravithri27/Leetcode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |

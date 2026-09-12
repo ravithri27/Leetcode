@@ -132,6 +132,7 @@
 | [0739-daily-temperatures](https://github.com/ravithri27/Leetcode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ravithri27/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0821-shortest-distance-to-a-character](https://github.com/ravithri27/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/ravithri27/Leetcode/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,6 +253,7 @@
 | [0541-reverse-string-ii](https://github.com/ravithri27/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ravithri27/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/ravithri27/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/ravithri27/Leetcode/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -314,6 +316,7 @@
 | [0054-spiral-matrix](https://github.com/ravithri27/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ravithri27/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/ravithri27/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/ravithri27/Leetcode/tree/master/0832-flipping-an-image) |
 ## Algorithm X
 |  |
 | ------- |
@@ -333,6 +336,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/ravithri27/Leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/ravithri27/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/ravithri27/Leetcode/tree/master/0832-flipping-an-image) |
 ## Quicksort
 |  |
 | ------- |
@@ -358,6 +362,7 @@
 | [0342-power-of-four](https://github.com/ravithri27/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ravithri27/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/ravithri27/Leetcode/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/ravithri27/Leetcode/tree/master/0832-flipping-an-image) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

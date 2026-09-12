@@ -43,6 +43,7 @@
 | [0039-combination-sum](https://github.com/ravithri27/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/ravithri27/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ravithri27/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ravithri27/Leetcode/tree/master/0047-permutations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0015-3sum](https://github.com/ravithri27/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ravithri27/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ravithri27/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/ravithri27/Leetcode/tree/master/0047-permutations-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -114,4 +116,5 @@
 | ------- |
 | [0039-combination-sum](https://github.com/ravithri27/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ravithri27/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ravithri27/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->

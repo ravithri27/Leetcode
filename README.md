@@ -183,6 +183,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ravithri27/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/ravithri27/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravithri27/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ravithri27/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -344,6 +345,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ravithri27/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravithri27/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ravithri27/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
@@ -453,6 +455,7 @@
 | [1920-build-array-from-permutation](https://github.com/ravithri27/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ravithri27/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravithri27/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ravithri27/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Quicksort
 |  |
 | ------- |

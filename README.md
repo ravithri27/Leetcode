@@ -33,6 +33,7 @@
 | [0050-powx-n](https://github.com/ravithri27/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ravithri27/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ravithri27/Leetcode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/ravithri27/Leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Recursion
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0014-longest-common-prefix](https://github.com/ravithri27/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ravithri27/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ravithri27/Leetcode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/ravithri27/Leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Sliding Window
 |  |
 | ------- |

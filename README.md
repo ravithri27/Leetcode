@@ -141,6 +141,7 @@
 | [0904-fruit-into-baskets](https://github.com/ravithri27/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/ravithri27/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ravithri27/Leetcode/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/ravithri27/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -270,6 +271,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/ravithri27/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/ravithri27/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ravithri27/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/ravithri27/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -306,6 +308,7 @@
 | [0881-boats-to-save-people](https://github.com/ravithri27/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ravithri27/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ravithri27/Leetcode/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/ravithri27/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

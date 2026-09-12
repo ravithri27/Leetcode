@@ -195,6 +195,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/ravithri27/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ravithri27/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravithri27/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3206-alternating-groups-i](https://github.com/ravithri27/Leetcode/tree/master/3206-alternating-groups-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -281,6 +282,7 @@
 | [2932-maximum-strong-pair-xor-i](https://github.com/ravithri27/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ravithri27/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravithri27/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3206-alternating-groups-i](https://github.com/ravithri27/Leetcode/tree/master/3206-alternating-groups-i) |
 ## Binary Search
 |  |
 | ------- |

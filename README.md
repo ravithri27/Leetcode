@@ -21,6 +21,7 @@
 | [0048-rotate-image](https://github.com/ravithri27/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ravithri27/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ravithri27/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ravithri27/Leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ravithri27/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ravithri27/Leetcode/tree/master/0070-climbing-stairs) |
 ## Simulation
 |  |
 | ------- |
@@ -158,4 +160,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ravithri27/Leetcode/tree/master/0056-merge-intervals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ravithri27/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

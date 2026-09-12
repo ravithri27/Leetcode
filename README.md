@@ -208,6 +208,7 @@
 | [4001-aggregate-two-time-series](https://github.com/ravithri27/Leetcode/tree/master/4001-aggregate-two-time-series) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/ravithri27/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ravithri27/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4024-nearest-available-drone](https://github.com/ravithri27/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Hash Table
 |  |
 | ------- |
@@ -669,4 +670,5 @@
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravithri27/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/ravithri27/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
+| [4024-nearest-available-drone](https://github.com/ravithri27/Leetcode/tree/master/4024-nearest-available-drone) |
 <!---LeetCode Topics End-->

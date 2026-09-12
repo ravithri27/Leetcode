@@ -82,6 +82,7 @@
 | [0136-single-number](https://github.com/ravithri27/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravithri27/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravithri27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ravithri27/Leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0141-linked-list-cycle](https://github.com/ravithri27/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ravithri27/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ravithri27/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/ravithri27/Leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/ravithri27/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ravithri27/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ravithri27/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ravithri27/Leetcode/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -169,6 +172,7 @@
 | [0088-merge-sorted-array](https://github.com/ravithri27/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/ravithri27/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ravithri27/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ravithri27/Leetcode/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -241,4 +245,12 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ravithri27/Leetcode/tree/master/0143-reorder-list) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ravithri27/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ravithri27/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

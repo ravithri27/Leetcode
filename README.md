@@ -60,6 +60,7 @@
 | [0066-plus-one](https://github.com/ravithri27/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ravithri27/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ravithri27/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ravithri27/Leetcode/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0046-permutations](https://github.com/ravithri27/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ravithri27/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ravithri27/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/ravithri27/Leetcode/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -175,4 +177,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ravithri27/Leetcode/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ravithri27/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

@@ -60,6 +60,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/ravithri27/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ravithri27/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/ravithri27/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/ravithri27/Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -392,6 +393,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ravithri27/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ravithri27/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3638-maximum-balanced-shipments](https://github.com/ravithri27/Leetcode/tree/master/3638-maximum-balanced-shipments) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/ravithri27/Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sorting
 |  |
 | ------- |

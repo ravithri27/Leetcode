@@ -129,6 +129,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ravithri27/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/ravithri27/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ravithri27/Leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/ravithri27/Leetcode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -364,6 +365,7 @@
 | [0445-add-two-numbers-ii](https://github.com/ravithri27/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/ravithri27/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ravithri27/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ravithri27/Leetcode/tree/master/0739-daily-temperatures) |
 ## Counting
 |  |
 | ------- |
@@ -409,6 +411,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ravithri27/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ravithri27/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ravithri27/Leetcode/tree/master/0739-daily-temperatures) |
 ## Pigeonhole Principle
 |  |
 | ------- |

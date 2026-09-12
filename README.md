@@ -135,6 +135,7 @@
 | [0171-excel-sheet-column-number](https://github.com/ravithri27/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/ravithri27/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ravithri27/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ravithri27/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -193,6 +194,7 @@
 | [0234-palindrome-linked-list](https://github.com/ravithri27/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ravithri27/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ravithri27/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ravithri27/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
 |  |
 | ------- |

@@ -36,6 +36,7 @@
 | [0070-climbing-stairs](https://github.com/ravithri27/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/ravithri27/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ravithri27/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ravithri27/Leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0050-powx-n](https://github.com/ravithri27/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/ravithri27/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ravithri27/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ravithri27/Leetcode/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 | [0078-subsets](https://github.com/ravithri27/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ravithri27/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ravithri27/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ravithri27/Leetcode/tree/master/0231-power-of-two) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

@@ -106,6 +106,7 @@
 | [0268-missing-number](https://github.com/ravithri27/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ravithri27/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ravithri27/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/ravithri27/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ravithri27/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ravithri27/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ravithri27/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ravithri27/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 | [0053-maximum-subarray](https://github.com/ravithri27/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ravithri27/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ravithri27/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ravithri27/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
 | ------- |
@@ -217,10 +220,12 @@
 | [0217-contains-duplicate](https://github.com/ravithri27/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ravithri27/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ravithri27/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ravithri27/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ravithri27/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/ravithri27/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -297,6 +302,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ravithri27/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ravithri27/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -315,4 +321,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ravithri27/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ravithri27/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ravithri27/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

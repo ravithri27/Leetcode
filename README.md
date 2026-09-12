@@ -132,6 +132,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravithri27/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ravithri27/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravithri27/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ravithri27/Leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ravithri27/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ravithri27/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravithri27/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ravithri27/Leetcode/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ravithri27/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ravithri27/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravithri27/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/ravithri27/Leetcode/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -302,6 +305,7 @@
 | [0231-power-of-two](https://github.com/ravithri27/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ravithri27/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ravithri27/Leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/ravithri27/Leetcode/tree/master/0389-find-the-difference) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

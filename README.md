@@ -193,6 +193,7 @@
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ravithri27/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/ravithri27/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ravithri27/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ravithri27/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +278,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/ravithri27/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ravithri27/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/ravithri27/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ravithri27/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -501,6 +503,7 @@
 | [0645-set-mismatch](https://github.com/ravithri27/Leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/ravithri27/Leetcode/tree/master/0832-flipping-an-image) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/ravithri27/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ravithri27/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

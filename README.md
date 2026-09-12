@@ -50,6 +50,7 @@
 | [0048-rotate-image](https://github.com/ravithri27/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ravithri27/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ravithri27/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/ravithri27/Leetcode/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ravithri27/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ravithri27/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ravithri27/Leetcode/tree/master/0053-maximum-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ravithri27/Leetcode/tree/master/0051-n-queens) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ravithri27/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

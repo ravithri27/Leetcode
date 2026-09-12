@@ -128,6 +128,7 @@
 | [0645-set-mismatch](https://github.com/ravithri27/Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ravithri27/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/ravithri27/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/ravithri27/Leetcode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -382,6 +383,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ravithri27/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/ravithri27/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ravithri27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ravithri27/Leetcode/tree/master/0724-find-pivot-index) |
 ## Interactive
 |  |
 | ------- |

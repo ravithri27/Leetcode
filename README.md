@@ -109,6 +109,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ravithri27/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ravithri27/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravithri27/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0413-arithmetic-slices](https://github.com/ravithri27/Leetcode/tree/master/0413-arithmetic-slices) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravithri27/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ravithri27/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ravithri27/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/ravithri27/Leetcode/tree/master/0413-arithmetic-slices) |
 ## Binary Search
 |  |
 | ------- |
@@ -279,6 +281,7 @@
 | [0118-pascals-triangle](https://github.com/ravithri27/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravithri27/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ravithri27/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0413-arithmetic-slices](https://github.com/ravithri27/Leetcode/tree/master/0413-arithmetic-slices) |
 ## Simulation
 |  |
 | ------- |

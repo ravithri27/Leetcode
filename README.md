@@ -194,6 +194,7 @@
 | [2932-maximum-strong-pair-xor-i](https://github.com/ravithri27/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ravithri27/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ravithri27/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravithri27/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -279,6 +280,7 @@
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ravithri27/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/ravithri27/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ravithri27/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravithri27/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -504,6 +506,7 @@
 | [0832-flipping-an-image](https://github.com/ravithri27/Leetcode/tree/master/0832-flipping-an-image) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/ravithri27/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ravithri27/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravithri27/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -557,6 +560,7 @@
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ravithri27/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2574-left-and-right-sum-differences](https://github.com/ravithri27/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ravithri27/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravithri27/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Interactive
 |  |
 | ------- |
@@ -578,6 +582,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ravithri27/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravithri27/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack
 |  |
 | ------- |

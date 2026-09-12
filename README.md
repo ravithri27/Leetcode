@@ -124,6 +124,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ravithri27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/ravithri27/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravithri27/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/ravithri27/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ravithri27/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/ravithri27/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/ravithri27/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/ravithri27/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
 | ------- |

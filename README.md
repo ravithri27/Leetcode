@@ -207,6 +207,7 @@
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ravithri27/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4001-aggregate-two-time-series](https://github.com/ravithri27/Leetcode/tree/master/4001-aggregate-two-time-series) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/ravithri27/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/ravithri27/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -384,6 +385,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ravithri27/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ravithri27/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [4001-aggregate-two-time-series](https://github.com/ravithri27/Leetcode/tree/master/4001-aggregate-two-time-series) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/ravithri27/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Greedy
 |  |
 | ------- |
@@ -398,6 +400,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ravithri27/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3638-maximum-balanced-shipments](https://github.com/ravithri27/Leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/ravithri27/Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/ravithri27/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Sorting
 |  |
 | ------- |
@@ -437,6 +440,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ravithri27/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravithri27/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ravithri27/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/ravithri27/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

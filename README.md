@@ -71,6 +71,7 @@
 | [0118-pascals-triangle](https://github.com/ravithri27/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravithri27/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ravithri27/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/ravithri27/Leetcode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -204,4 +205,5 @@
 | ------- |
 | [0078-subsets](https://github.com/ravithri27/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ravithri27/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ravithri27/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

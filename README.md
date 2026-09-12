@@ -58,6 +58,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ravithri27/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravithri27/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ravithri27/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ravithri27/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Recursion
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | [3364-minimum-positive-sum-subarray](https://github.com/ravithri27/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3638-maximum-balanced-shipments](https://github.com/ravithri27/Leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ravithri27/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ravithri27/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Hash Table
 |  |
 | ------- |

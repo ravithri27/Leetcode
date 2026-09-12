@@ -172,6 +172,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ravithri27/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ravithri27/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ravithri27/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ravithri27/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -326,6 +327,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/ravithri27/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ravithri27/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ravithri27/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ravithri27/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -336,6 +338,7 @@
 | [0881-boats-to-save-people](https://github.com/ravithri27/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/ravithri27/Leetcode/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravithri27/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ravithri27/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -370,6 +373,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravithri27/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ravithri27/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravithri27/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ravithri27/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

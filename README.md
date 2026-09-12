@@ -148,6 +148,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ravithri27/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ravithri27/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ravithri27/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1089-duplicate-zeros](https://github.com/ravithri27/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -285,6 +286,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/ravithri27/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/ravithri27/Leetcode/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravithri27/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/ravithri27/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Greedy
 |  |
 | ------- |

@@ -144,6 +144,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravithri27/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ravithri27/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ravithri27/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/ravithri27/Leetcode/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -292,4 +293,8 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ravithri27/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ravithri27/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ravithri27/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

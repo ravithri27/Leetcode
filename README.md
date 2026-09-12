@@ -134,6 +134,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/ravithri27/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0821-shortest-distance-to-a-character](https://github.com/ravithri27/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/ravithri27/Leetcode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/ravithri27/Leetcode/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -318,6 +319,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ravithri27/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/ravithri27/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/ravithri27/Leetcode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/ravithri27/Leetcode/tree/master/0867-transpose-matrix) |
 ## Algorithm X
 |  |
 | ------- |
@@ -338,6 +340,7 @@
 | [0054-spiral-matrix](https://github.com/ravithri27/Leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/ravithri27/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/ravithri27/Leetcode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/ravithri27/Leetcode/tree/master/0867-transpose-matrix) |
 ## Quicksort
 |  |
 | ------- |

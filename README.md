@@ -46,6 +46,7 @@
 | [0046-permutations](https://github.com/ravithri27/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ravithri27/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ravithri27/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ravithri27/Leetcode/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,12 +54,14 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravithri27/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ravithri27/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ravithri27/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/ravithri27/Leetcode/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravithri27/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ravithri27/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ravithri27/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/ravithri27/Leetcode/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,6 +104,7 @@
 | [0016-3sum-closest](https://github.com/ravithri27/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ravithri27/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ravithri27/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/ravithri27/Leetcode/tree/master/0049-group-anagrams) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

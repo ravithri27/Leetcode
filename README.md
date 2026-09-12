@@ -142,6 +142,7 @@
 | [0905-sort-array-by-parity](https://github.com/ravithri27/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ravithri27/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ravithri27/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/ravithri27/Leetcode/tree/master/0942-di-string-match) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | [0541-reverse-string-ii](https://github.com/ravithri27/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ravithri27/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/ravithri27/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0942-di-string-match](https://github.com/ravithri27/Leetcode/tree/master/0942-di-string-match) |
 ## Sliding Window
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | [0881-boats-to-save-people](https://github.com/ravithri27/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ravithri27/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ravithri27/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/ravithri27/Leetcode/tree/master/0942-di-string-match) |
 ## Greedy
 |  |
 | ------- |
@@ -280,6 +283,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ravithri27/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ravithri27/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/ravithri27/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/ravithri27/Leetcode/tree/master/0942-di-string-match) |
 ## Sorting
 |  |
 | ------- |

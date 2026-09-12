@@ -176,6 +176,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ravithri27/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ravithri27/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1920-build-array-from-permutation](https://github.com/ravithri27/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/ravithri27/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -439,6 +440,7 @@
 | [0832-flipping-an-image](https://github.com/ravithri27/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ravithri27/Leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/ravithri27/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/ravithri27/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Quicksort
 |  |
 | ------- |

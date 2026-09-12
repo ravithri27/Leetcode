@@ -125,6 +125,7 @@
 | [0566-reshape-the-matrix](https://github.com/ravithri27/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravithri27/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ravithri27/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/ravithri27/Leetcode/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [0496-next-greater-element-i](https://github.com/ravithri27/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/ravithri27/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ravithri27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/ravithri27/Leetcode/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -267,6 +269,7 @@
 | [0389-find-the-difference](https://github.com/ravithri27/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ravithri27/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravithri27/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/ravithri27/Leetcode/tree/master/0645-set-mismatch) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -340,6 +343,7 @@
 | [0268-missing-number](https://github.com/ravithri27/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ravithri27/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ravithri27/Leetcode/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/ravithri27/Leetcode/tree/master/0645-set-mismatch) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

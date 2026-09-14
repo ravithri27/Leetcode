@@ -181,6 +181,7 @@
 | [1652-defuse-the-bomb](https://github.com/ravithri27/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/ravithri27/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/ravithri27/Leetcode/tree/master/1695-maximum-erasure-value) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ravithri27/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ravithri27/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ravithri27/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ravithri27/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -518,6 +519,7 @@
 | [0832-flipping-an-image](https://github.com/ravithri27/Leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/ravithri27/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/ravithri27/Leetcode/tree/master/0867-transpose-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ravithri27/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/ravithri27/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ravithri27/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravithri27/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -576,6 +578,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravithri27/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravithri27/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravithri27/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ravithri27/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ravithri27/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2000-reverse-prefix-of-word](https://github.com/ravithri27/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -639,6 +642,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ravithri27/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ravithri27/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravithri27/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack
 |  |

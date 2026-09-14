@@ -276,6 +276,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravithri27/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ravithri27/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ravithri27/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3174-clear-digits](https://github.com/ravithri27/Leetcode/tree/master/3174-clear-digits) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravithri27/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/ravithri27/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Sliding Window
@@ -517,6 +518,7 @@
 | [1929-concatenation-of-array](https://github.com/ravithri27/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravithri27/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ravithri27/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3174-clear-digits](https://github.com/ravithri27/Leetcode/tree/master/3174-clear-digits) |
 ## Quicksort
 |  |
 | ------- |
@@ -571,6 +573,7 @@
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ravithri27/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+| [3174-clear-digits](https://github.com/ravithri27/Leetcode/tree/master/3174-clear-digits) |
 | [3638-maximum-balanced-shipments](https://github.com/ravithri27/Leetcode/tree/master/3638-maximum-balanced-shipments) |
 ## Counting
 |  |

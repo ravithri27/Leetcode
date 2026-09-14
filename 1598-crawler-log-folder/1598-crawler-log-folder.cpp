@@ -7,7 +7,7 @@ public:
                 st.pop();
             }else if(x=="./"){
                 continue;
-            }else{
+            }else if(x!="../"&&x!="./"){
                 st.push(x);
             }
         }

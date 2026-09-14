@@ -276,6 +276,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravithri27/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ravithri27/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ravithri27/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2000-reverse-prefix-of-word](https://github.com/ravithri27/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ravithri27/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/ravithri27/Leetcode/tree/master/3174-clear-digits) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravithri27/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -389,6 +390,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ravithri27/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ravithri27/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ravithri27/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2000-reverse-prefix-of-word](https://github.com/ravithri27/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravithri27/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ravithri27/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -573,6 +575,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravithri27/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravithri27/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ravithri27/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2000-reverse-prefix-of-word](https://github.com/ravithri27/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ravithri27/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |

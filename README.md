@@ -257,6 +257,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravithri27/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ravithri27/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ravithri27/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ravithri27/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ravithri27/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ravithri27/Leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/ravithri27/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -560,6 +561,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ravithri27/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ravithri27/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ravithri27/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ravithri27/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -704,4 +706,8 @@
 |  |
 | ------- |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ravithri27/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ravithri27/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

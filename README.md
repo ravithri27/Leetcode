@@ -286,6 +286,7 @@
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ravithri27/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/ravithri27/Leetcode/tree/master/3174-clear-digits) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravithri27/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/ravithri27/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/ravithri27/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Sliding Window
 |  |
@@ -593,6 +594,7 @@
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ravithri27/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/ravithri27/Leetcode/tree/master/3174-clear-digits) |
 | [3638-maximum-balanced-shipments](https://github.com/ravithri27/Leetcode/tree/master/3638-maximum-balanced-shipments) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/ravithri27/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |
 | ------- |
@@ -602,6 +604,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ravithri27/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ravithri27/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ravithri27/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/ravithri27/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

@@ -17,25 +17,17 @@ public:
         stack<int> st;
         ListNode *temp=head;
         while(temp!=nullptr){
-            if(st.empty()){
-                st.push(temp->val);
-                temp=temp->next;
-            }else if(temp->val>st.top()){
+            while(!st.empty()&&st.top()<temp->val){
                 st.pop();
-            }else{
-                st.push(temp->val);
-                temp=temp->next;
             }
+            st.push(temp->val);
+            temp=temp->next;
         }
         ListNode *head1=nullptr;
-        while(!(st.empty())){
+        while(!st.empty()){
             ListNode *newnode=new ListNode(st.top());
-            if(head1==nullptr){
-                head1=newnode;
-            }else{
-                newnode->next=head1;
-                head1=newnode;
-            }
+            newnode->next=head1;
+            head1=newnode;
             st.pop();
         }
         return head1;

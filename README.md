@@ -31,6 +31,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ravithri27/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ravithri27/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ravithri27/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravithri27/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3536-maximum-product-of-two-digits](https://github.com/ravithri27/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ravithri27/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/ravithri27/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
@@ -592,6 +594,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ravithri27/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3174-clear-digits](https://github.com/ravithri27/Leetcode/tree/master/3174-clear-digits) |
 | [3638-maximum-balanced-shipments](https://github.com/ravithri27/Leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ravithri27/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |

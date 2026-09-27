@@ -596,6 +596,7 @@
 | [0739-daily-temperatures](https://github.com/ravithri27/Leetcode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ravithri27/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/ravithri27/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/ravithri27/Leetcode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ravithri27/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/ravithri27/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravithri27/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -663,6 +664,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ravithri27/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/ravithri27/Leetcode/tree/master/0901-online-stock-span) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -685,6 +687,7 @@
 | [0503-next-greater-element-ii](https://github.com/ravithri27/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ravithri27/Leetcode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ravithri27/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0901-online-stock-span](https://github.com/ravithri27/Leetcode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ravithri27/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravithri27/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravithri27/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -751,4 +754,8 @@
 | [1021-remove-outermost-parentheses](https://github.com/ravithri27/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravithri27/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ravithri27/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ravithri27/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

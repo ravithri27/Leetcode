@@ -11,7 +11,7 @@ public:
             st.pop();
         }
         st.push({price,count});
-        return st.top().second;
+        return count;
     }
 };
 

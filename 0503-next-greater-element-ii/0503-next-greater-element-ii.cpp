@@ -6,12 +6,15 @@ public:
             nums.push_back(nums[i]);
         }
         stack<int> st;
-        vector<int> ans(n,-1);
+        vector<int> ans(n);
+        ans[n-1]=-1;
         for(int i=2*n-1;i>=0;i--){
             while(!st.empty()&&st.top()<=nums[i]){
                 st.pop();
             }
-            if(!st.empty()){
+            if(st.empty()){
+                ans[i%n]=-1;
+            }else{
                 ans[i%n]=st.top();
             }
             st.push(nums[i]);

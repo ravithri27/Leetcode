@@ -16,27 +16,24 @@ public:
     }
     
     int pop() {
-        int x;
         if(i==-1){
             return -1;
         }
-        if(i>=0){
-            x=st[i];
-            st.pop_back();
-            i--;
-        }
+        int x=st[i];
+        st.pop_back();
+        i--;
         return x;
     }
     
     void increment(int k, int val) {
-        if(k>n){
-            for(int j=0;j<n;j++){
-                st[j]+=val;
-            }
+        int limit;
+        if(k>i+1){
+            limit=i+1;
         }else{
-            for(int j=0;j<k;j++){
-                st[j]+=val;
-            }
+            limit=k;
+        }
+        for (int j = 0; j < limit; j++) {
+            st[j] += val;
         }
     }
 };

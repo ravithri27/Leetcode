@@ -206,6 +206,7 @@
 | [1929-concatenation-of-array](https://github.com/ravithri27/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravithri27/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ravithri27/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ravithri27/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2090-k-radius-subarray-averages](https://github.com/ravithri27/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravithri27/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ravithri27/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -568,6 +569,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ravithri27/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/ravithri27/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ravithri27/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ravithri27/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravithri27/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ravithri27/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/ravithri27/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -728,6 +730,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ravithri27/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/ravithri27/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ravithri27/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ravithri27/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravithri27/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack
 |  |

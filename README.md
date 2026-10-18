@@ -709,6 +709,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/ravithri27/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ravithri27/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/ravithri27/Leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/ravithri27/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/ravithri27/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Bucket Sort
 |  |
@@ -725,6 +726,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ravithri27/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ravithri27/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravithri27/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/ravithri27/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ravithri27/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravithri27/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack
@@ -810,6 +812,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ravithri27/Leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/ravithri27/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Newton's Method
 |  |
 | ------- |

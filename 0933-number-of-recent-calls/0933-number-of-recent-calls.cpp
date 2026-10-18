@@ -2,7 +2,6 @@ class RecentCounter {
 public:
     queue<int> q;
     RecentCounter() {
-        
     }
     
     int ping(int t) {

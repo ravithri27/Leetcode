@@ -171,6 +171,7 @@
 | [0912-sort-an-array](https://github.com/ravithri27/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ravithri27/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/ravithri27/Leetcode/tree/master/0942-di-string-match) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ravithri27/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravithri27/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ravithri27/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ravithri27/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -486,6 +487,7 @@
 | [0905-sort-array-by-parity](https://github.com/ravithri27/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ravithri27/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ravithri27/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ravithri27/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravithri27/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ravithri27/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravithri27/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -564,6 +566,7 @@
 | [0832-flipping-an-image](https://github.com/ravithri27/Leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/ravithri27/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/ravithri27/Leetcode/tree/master/0867-transpose-matrix) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ravithri27/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ravithri27/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ravithri27/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ravithri27/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -729,6 +732,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/ravithri27/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravithri27/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/ravithri27/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ravithri27/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ravithri27/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ravithri27/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravithri27/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |

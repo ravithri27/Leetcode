@@ -61,6 +61,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ravithri27/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ravithri27/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ravithri27/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ravithri27/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravithri27/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3536-maximum-product-of-two-digits](https://github.com/ravithri27/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -85,6 +86,7 @@
 | [0342-power-of-four](https://github.com/ravithri27/Leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/ravithri27/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/ravithri27/Leetcode/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ravithri27/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ravithri27/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -201,6 +203,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ravithri27/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ravithri27/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ravithri27/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ravithri27/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ravithri27/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ravithri27/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1920-build-array-from-permutation](https://github.com/ravithri27/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -569,6 +572,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/ravithri27/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ravithri27/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ravithri27/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ravithri27/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ravithri27/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/ravithri27/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ravithri27/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -734,6 +738,7 @@
 | [0933-number-of-recent-calls](https://github.com/ravithri27/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ravithri27/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ravithri27/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ravithri27/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ravithri27/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravithri27/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack

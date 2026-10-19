@@ -5,7 +5,7 @@ public:
         for(int i=1;i<=n;i++){
             q.push(i);
         }
-        while(!q.empty()){
+        while(true){
             for(int i=0;i<k-1;i++){
                 q.push(q.front());
                 q.pop();

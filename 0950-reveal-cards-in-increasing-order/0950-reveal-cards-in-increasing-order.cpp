@@ -7,7 +7,7 @@ public:
         for(int i=0;i<n;i++){
             q.push(i);
         }
-        while(!q.empty()){
+        while(true){
             order.push_back(q.front());
             q.pop();
             if(q.empty()){

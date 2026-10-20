@@ -12,7 +12,7 @@ public:
     }
     
     vector<int> matchDriverWithRider() {
-        if(driver.empty()||rider.empty()){
+        if(driver.size()==0||rider.size()==0){
             return {-1,-1};
         }
         int r=rider.front();

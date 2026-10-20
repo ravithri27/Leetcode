@@ -21,7 +21,6 @@ public:
         deque<int> max,min;
         int ans=0;
         int left=0;
-        int cnt=0;
         int sl=-1,l=-1;
         for(int right=0;right<n;right++){
             if(prime[nums[right]]){
@@ -35,7 +34,6 @@ public:
                 }
                 min.push_back(right);
                 max.push_back(right);
-                cnt++;
             }
             while(!max.empty()&&!min.empty()&&nums[max.front()]-nums[min.front()]>k){
                 if(max.front()==left){
@@ -44,12 +42,9 @@ public:
                 if(min.front()==left){
                     min.pop_front();
                 }
-                if(prime[nums[left]]){
-                    cnt--;
-                }
                 left++;
             }
-            if(cnt>=2){
+            if(sl!=-1){
                 ans+=sl-left+1;
             }
         }

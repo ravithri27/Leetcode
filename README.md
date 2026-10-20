@@ -234,6 +234,7 @@
 | [3206-alternating-groups-i](https://github.com/ravithri27/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ravithri27/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3638-maximum-balanced-shipments](https://github.com/ravithri27/Leetcode/tree/master/3638-maximum-balanced-shipments) |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/ravithri27/Leetcode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ravithri27/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ravithri27/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4001-aggregate-two-time-series](https://github.com/ravithri27/Leetcode/tree/master/4001-aggregate-two-time-series) |
@@ -767,6 +768,7 @@
 | [2762-continuous-subarrays](https://github.com/ravithri27/Leetcode/tree/master/2762-continuous-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravithri27/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3829-design-ride-sharing-system](https://github.com/ravithri27/Leetcode/tree/master/3829-design-ride-sharing-system) |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/ravithri27/Leetcode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -868,6 +870,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ravithri27/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/ravithri27/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2762-continuous-subarrays](https://github.com/ravithri27/Leetcode/tree/master/2762-continuous-subarrays) |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/ravithri27/Leetcode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Ordered Set
 |  |
 | ------- |

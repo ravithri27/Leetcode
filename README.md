@@ -277,6 +277,7 @@
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ravithri27/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/ravithri27/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ravithri27/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3829-design-ride-sharing-system](https://github.com/ravithri27/Leetcode/tree/master/3829-design-ride-sharing-system) |
 ## String
 |  |
 | ------- |
@@ -726,6 +727,7 @@
 | [0901-online-stock-span](https://github.com/ravithri27/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/ravithri27/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/ravithri27/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
+| [3829-design-ride-sharing-system](https://github.com/ravithri27/Leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -749,6 +751,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ravithri27/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ravithri27/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravithri27/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3829-design-ride-sharing-system](https://github.com/ravithri27/Leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -833,6 +836,7 @@
 | ------- |
 | [0901-online-stock-span](https://github.com/ravithri27/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/ravithri27/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [3829-design-ride-sharing-system](https://github.com/ravithri27/Leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Newton's Method
 |  |
 | ------- |

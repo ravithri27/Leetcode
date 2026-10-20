@@ -220,6 +220,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravithri27/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ravithri27/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ravithri27/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/ravithri27/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2574-left-and-right-sum-differences](https://github.com/ravithri27/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravithri27/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ravithri27/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -348,6 +349,7 @@
 | [1695-maximum-erasure-value](https://github.com/ravithri27/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ravithri27/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/ravithri27/Leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/ravithri27/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ravithri27/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/ravithri27/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/ravithri27/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
@@ -754,6 +756,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ravithri27/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ravithri27/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ravithri27/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/ravithri27/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravithri27/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3829-design-ride-sharing-system](https://github.com/ravithri27/Leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Monotonic Stack
@@ -854,4 +857,5 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ravithri27/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/ravithri27/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->

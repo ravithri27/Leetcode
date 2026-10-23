@@ -11,10 +11,6 @@
  */
 class Solution {
 public:
-    int max(int a,int b){
-        if(a>b)return a;
-        return b;
-    }
     int maxDepth(TreeNode* root) {
        if(root==nullptr)return 0;
        queue<TreeNode*> q;

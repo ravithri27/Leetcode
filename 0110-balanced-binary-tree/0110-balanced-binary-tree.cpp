@@ -21,29 +21,16 @@ public:
         }
         int left=height(root->left);
         int right=height(root->right);
+        if(left==-1||right==-1){
+            return -1;
+        }
+        if(abs(left-right)>1){
+            return -1;
+        }
         return max(left,right)+1;
         
     }
     bool isBalanced(TreeNode* root) {
-        if(root==nullptr){
-            return true;
-        }
-        queue<TreeNode*> q;
-        q.push(root);
-        while(!q.empty()){
-            int left=height(q.front()->left);
-            int right=height(q.front()->right);
-            if(abs(left-right)>1){
-                return false;
-            }
-            if(q.front()->left!=nullptr){
-                q.push(q.front()->left);
-            }
-            if(q.front()->right!=nullptr){
-                q.push(q.front()->right);
-            }
-            q.pop();
-        }
-        return true;
+        return height(root)!=-1;
     }
 };

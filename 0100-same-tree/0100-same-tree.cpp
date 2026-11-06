@@ -20,39 +20,9 @@ public:
         if(p->val!=q->val){
             return false;
         }
-        queue<TreeNode*> q1,q2;
-        q1.push(p);
-        q2.push(q);
-        bool check=true;
-        while(!q1.empty()&&!q2.empty()){
-            int size=q1.size();
-            for(int i=0;i<size;i++){
-                TreeNode* curr1=q1.front();
-                TreeNode* curr2=q2.front();
-                q1.pop();
-                q2.pop();
-                if(curr1->left!=nullptr){
-                    q1.push(curr1->left);
-                }
-                if(curr2->left!=nullptr){
-                    q2.push(curr2->left);
-                }
-                if((!q1.empty()&&!q2.empty()&&q1.front()->val!=q2.front()->val)||q1.size()!=q2.size()){
-                    check=false;
-                    break;
-                }
-                if(curr1->right!=nullptr){
-                    q1.push(curr1->right);
-                }
-                if(curr2->right!=nullptr){
-                    q2.push(curr2->right);
-                }
-                if((!q1.empty()&&!q2.empty()&&q1.front()->val!=q2.front()->val)||q1.size()!=q2.size()){
-                    check=false;
-                    break;
-                }
-            }
-        }
-        return check;
+        bool check1=isSameTree(p->left,q->left);
+        bool check2=isSameTree(p->right,q->right);
+        if(check1&&check2)return true;
+        return false;
     }
 };

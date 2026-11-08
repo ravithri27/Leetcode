@@ -11,25 +11,15 @@
  */
 class Solution {
 public:
-    void invert(TreeNode* root,TreeNode* newnode){
-        if(root==nullptr){
-            return;
-        }
-        if(root->left!=nullptr){
-            newnode->right=new TreeNode(root->left->val);
-        }
-        if(root->right!=nullptr){
-            newnode->left=new TreeNode(root->right->val);
-        }
-        invert(root->left,newnode->right);
-        invert(root->right,newnode->left);
-    }
     TreeNode* invertTree(TreeNode* root) {
         if(root==nullptr){
-            return nullptr;
+            return root;
         }
-        TreeNode* newnode = new TreeNode(root->val);
-        invert(root,newnode);
-        return newnode;
+        TreeNode* left=invertTree(root->left);
+        TreeNode *right=invertTree(root->right);
+        root->left=right;
+        root->right=left;
+        return root;
+        
     }
 };
